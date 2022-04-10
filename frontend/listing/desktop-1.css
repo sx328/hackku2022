@@ -1,0 +1,123 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  background-color: var(--white);
+  height: 1117px;
+  position: relative;
+  width: 1728px;
+}
+
+.desktop-1 .overlap-group4 {
+  background-color: var(--black);
+  border-radius: 30px;
+  height: 346px;
+  left: 480px;
+  position: absolute;
+  top: 408px;
+  width: 800px;
+}
+
+.desktop-1 .place {
+  height: 35px;
+  left: 203px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 72px;
+}
+
+.desktop-1 .overlap-group3 {
+  height: 36px;
+  left: 203px;
+  position: absolute;
+  top: 138px;
+  width: 374px;
+}
+
+.desktop-1 .details {
+  height: 35px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 301px;
+}
+
+.desktop-1 .overlap-group1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6252489daaee3d33e70bef6d/releases/625260d832022afb5d8088fa/img/rectangle-8@2x.svg);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 197px;
+  position: absolute;
+  top: 0;
+  width: 177px;
+}
+
+.desktop-1 .completed {
+  height: 27px;
+  left: 19px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  width: 107px;
+}
+
+.desktop-1 .akar-iconscircle-check-fill {
+  height: 24px;
+  left: 133px;
+  position: absolute;
+  top: 7px;
+  width: 24px;
+}
+
+.desktop-1 .overlap-group {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6252489daaee3d33e70bef6d/releases/625260d832022afb5d8088fa/img/rectangle-8@2x.svg);
+  background-size: 100% 100%;
+  height: 36px;
+  left: 400px;
+  position: absolute;
+  top: 72px;
+  width: 177px;
+}
+
+.desktop-1 .overlap-group2 {
+  height: 67px;
+  left: 221px;
+  position: absolute;
+  top: 211px;
+  width: 382px;
+}
+
+.desktop-1 .rectangle-9 {
+  height: 67px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 313px;
+}
+
+.desktop-1 .submit-listing {
+  color: var(--white);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-xl22);
+  font-weight: 700;
+  height: 39px;
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 14px;
+  width: 352px;
+}
+
+.desktop-1 .title {
+  color: var(--black);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 116px;
+  left: 74px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 228px;
+  width: 392px;
+}

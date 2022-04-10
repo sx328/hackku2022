@@ -1,0 +1,27 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l2: 20px;
+  --font-size-xl2: 32px;
+  --font-size-xl22: 36px;
+  --font-size-xxxl: 50px;
+ 
+  --font-family-archivo: "Archivo", Helvetica;
+  --font-family-helvetica-bold: "Helvetica-Bold", Helvetica;
+}
+.archivo-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-archivo);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.helvetica-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 700;
+}

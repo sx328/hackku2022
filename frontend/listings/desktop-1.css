@@ -1,0 +1,240 @@
+/* screen - desktop-1 */
+
+.desktop-1 {
+  background-color: var(--white);
+  height: 1117px;
+  position: relative;
+  width: 1728px;
+}
+
+.desktop-1 .title {
+  color: var(--black);
+  font-family: var(--font-family-helvetica-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  height: 85px;
+  left: 50px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 200px;
+  width: 287px;
+}
+
+.desktop-1 .overlap-group1 {
+  height: 241px;
+  left: 75px;
+  position: absolute;
+  top: 285px;
+  width: 1552px;
+}
+
+.desktop-1 .rectangle {
+  background-color: var(--black-coral-pearl);
+  border-radius: 30px;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1520px;
+}
+
+.desktop-1 .image {
+  height: 133px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 33px;
+  width: 200px;
+}
+
+.desktop-1 .alamorgodo-lane-cherokee-wy {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 38px;
+}
+
+.desktop-1 .address {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 141px;
+  width: 550px;
+}
+
+.desktop-1 .rectangle-1 {
+  background-color: var(--black);
+  border-radius: 15px;
+  height: 78px;
+  left: 1350px;
+  position: absolute;
+  top: 70px;
+  width: 140px;
+}
+
+.desktop-1 .place {
+  left: 1287px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  width: 265px;
+}
+
+.desktop-1 .x26-eth {
+  height: 142px;
+  left: 1100px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 38px;
+  width: 300px;
+}
+
+.desktop-1 .overlap-group2 {
+  height: 474px;
+  left: 75px;
+  position: absolute;
+  top: 526px;
+  width: 1552px;
+}
+
+.desktop-1 .address-1 {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 38px;
+}
+
+.desktop-1 .x250-acres-proximity {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 141px;
+  width: 550px;
+}
+
+.desktop-1 .rectangle-7 {
+  background-color: var(--black-coral-pearl);
+  border-radius: 30px;
+  height: 200px;
+  left: 0;
+  position: absolute;
+  top: 233px;
+  width: 1520px;
+}
+
+.desktop-1 .montana-278-wisdom-mt {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 271px;
+}
+
+.desktop-1 .x250-acres-proximity-1 {
+  left: 286px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 374px;
+  width: 550px;
+}
+
+.desktop-1 .rectangle-8 {
+  background-color: var(--black);
+  border-radius: 15px;
+  height: 78px;
+  left: 1350px;
+  position: absolute;
+  top: 303px;
+  width: 140px;
+}
+
+.desktop-1 .place-1 {
+  left: 1287px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 332px;
+  width: 265px;
+}
+
+.desktop-1 .x7000000-213815-eth {
+  height: 142px;
+  left: 1100px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 271px;
+  width: 300px;
+}
+
+.desktop-1 .image-5 {
+  height: 133px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 266px;
+  width: 200px;
+}
+
+.desktop-1 .group-10 {
+  height: 115px;
+  left: 50px;
+  position: absolute;
+  top: 50px;
+  width: 1576px;
+}
+
+.desktop-1 .view-listings {
+  height: 50px;
+  left: 1040px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 150px;
+}
+
+.desktop-1 .post-listing {
+  height: 50px;
+  left: 1218px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 150px;
+}
+
+.desktop-1 .overlap-group {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/6252489daaee3d33e70bef6d/releases/62525f0208dbf9929f4b001e/img/rectangle-2@2x.svg);
+  background-size: 100% 100%;
+  height: 57px;
+  left: 1395px;
+  position: absolute;
+  top: 30px;
+  width: 175px;
+}
+
+.desktop-1 .connect-wallet {
+  height: 50px;
+  left: 13px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  width: 150px;
+}
+
+.desktop-1 .line-1 {
+  height: 6px;
+  left: -3px;
+  position: absolute;
+  top: 104px;
+  width: 1576px;
+}
+
+.desktop-1 .fluentpuzzle-cube-16-filled {
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100px;
+}
